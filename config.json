@@ -1,7 +1,7 @@
 {
-  "first_app": "",
-  "change_calculator": "",
-  "mortgage_calculator": "",
-  "top_spots": "",
-  "vstda": ""
+  "first_app": "https://powerful-refuge-58219.herokuapp.com/",
+  "change_calculator": "https://ts-change-calculator.herokuapp.com/",
+  "mortgage_calculator": "https://ts-mortgage-calculator.herokuapp.com/",
+  "top_spots": "https://ts-top-spots.herokuapp.com/",
+  "vstda": "https://ts-top-spots.herokuapp.com/"
 }
